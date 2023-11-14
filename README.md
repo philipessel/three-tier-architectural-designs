@@ -1,2 +1,2 @@
-# aws-architectural-designs
-Various types of AWS Architectural Designs will be documented in this repository.
+# aws-architectural-design
+This is a three-tier highly scalable, available and fault-tolerance architecture in AWS.
